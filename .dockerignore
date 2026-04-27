@@ -1,0 +1,15 @@
+.git
+.gitignore
+.env
+.env.example
+.DS_Store
+target/
+*.md
+README.md
+.vscode
+.idea
+*.iml
+node_modules/
+.npm
+.env.local
+.env.*.local
